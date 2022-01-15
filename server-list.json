@@ -3,13 +3,13 @@
 	"ServerList": [
 		{
 			"Name": "M45",
-			"BanURL": "https://m45sci.xyz/server-list.json",
-			"WhitelistURL": "",
-			"LogURL": "https://m45sci.xyz/logs/",
+			"Bans": "https://m45sci.xyz/server-list.json",
+			"Trusts": "",
+			"Logs": "https://m45sci.xyz/logs/",
 			"Website": "https://m45sci.xyz/",
 			"Discord": "https://discord.gg/nnKyVzAYBw",
 			"Contact": "discord:Distortions#7165,mailto:distortions@gmail.com",
-			"JsonGzip": true
+			"JSON-GZip": true
 		}
 	]
 }
