@@ -2,7 +2,7 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 Factorio Community List<br>
-Simple list of communities.<br>
+Simple list of communities, and links to their bans and whitelists.<br>
 <br>
 v0.0.1: JSON<br>
 `Name, Bans, Trusts, Logs, Website, Discord, Contact, JSON-Gzip (bool)`<br>
