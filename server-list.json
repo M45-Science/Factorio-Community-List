@@ -8,7 +8,7 @@
 			"Website": "https://m45sci.xyz/",
 			"Discord": "https://discord.gg/nnKyVzAYBw",
 			"JsonGzip": false,
-			"Subscribed": true,
+			"Subscribed": true
 		},
 		{
 			"Name": "Comfy",
@@ -16,7 +16,7 @@
 			"Website": "https://getcomfy.eu/",
 			"Discord": "https://getcomfy.eu/discord",
 			"JsonGzip": false,
-			"Subscribed": true,
+			"Subscribed": true
 		},
 		{
 			"Name": "RedMew",
@@ -25,7 +25,6 @@
 			"Discord": "https://redmew.com/discord",
 			"JsonGzip": false,
 			"Subscribed": true,
-
 			"UseRedScrape": true
 		}
 	]
