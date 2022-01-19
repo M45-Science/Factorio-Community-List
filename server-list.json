@@ -1,22 +1,26 @@
 {
-    "Version": "0.0.1",
-    "ServerList": [
-        {
-            "Name": "M45-Science",
-            "Bans": "http://m45sci.xyz:8008/server-banlist.json",
-            "Logs": "https://m45sci.xyz/logs/",
-            "Website": "https://m45sci.xyz/",
-            "Discord": "https://discord.gg/nnKyVzAYBw",
-            "Contact": "discord:Distortions#7165,mailto:distortions@gmail.com",
-            "JsonGzip": true
-        },
-        {
-            "Name": "Comfy",
-            "Bans": "https://getcomfy.eu/api/banlist",
-            "Website": "https://getcomfy.eu/",
-            "Discord": "https://getcomfy.eu/discord"
-        },
-        {
+	"Version": "0.0.1",
+	"ServerList": [
+		{
+			"Name": "M45-Science",
+			"Bans": "https://m45sci.xyz:8008/server-banlist.json",
+			"Logs": "https://m45sci.xyz/logs/",
+			"Website": "https://m45sci.xyz/",
+			"Discord": "https://discord.gg/nnKyVzAYBw",
+			"JsonGzip": false,
+			"Subscribed": true,
+			"Added": "18 Jan 22 05:22 -07W00"
+		},
+		{
+			"Name": "Comfy",
+			"Bans": "https://getcomfy.eu/api/banlist",
+			"Website": "https://getcomfy.eu/",
+			"Discord": "https://getcomfy.eu/discord",
+			"JsonGzip": false,
+			"Subscribed": true,
+			"Added": "18 Jan 22 05:22 -0700"
+		},
+		{
 			"Name": "RedMew",
 			"Bans": "https://redmew.com/bans",
 			"Website": "https://redmew.com/",
@@ -26,5 +30,5 @@
 			"Added": "19 Jan 22 12:17 -0700",
 			"UseRedScrape": true
 		}
-    ]
+	]
 }
