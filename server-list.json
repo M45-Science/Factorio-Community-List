@@ -7,7 +7,7 @@
             "Logs": "https://m45sci.xyz/logs/",
             "Website": "https://m45sci.xyz/",
             "Discord": "https://discord.gg/nnKyVzAYBw",
-            "Contact": "discord:Distortions#7165,mailto:distortions@gmail.com"
+            "Contact": "discord:Distortions#7165,mailto:distortions@gmail.com",
             "JsonGzip": true
         },
         {
@@ -15,6 +15,16 @@
             "Bans": "https://getcomfy.eu/api/banlist",
             "Website": "https://getcomfy.eu/",
             "Discord": "https://getcomfy.eu/discord"
-        }
+        },
+        {
+			"Name": "RedMew",
+			"Bans": "https://redmew.com/bans",
+			"Website": "https://redmew.com/",
+			"Discord": "https://redmew.com/discord",
+			"JsonGzip": false,
+			"Subscribed": true,
+			"Added": "19 Jan 22 12:17 -0700",
+			"UseRedScrape": true
+		}
     ]
 }
