@@ -3,28 +3,22 @@
 	"ServerList": [
 		{
 			"Name": "M45-Science",
-			"Bans": "https://m45sci.xyz:8008/server-banlist.json",
+			"Bans": "http://m45sci.xyz:8008/server-banlist.json",
 			"Logs": "https://m45sci.xyz/logs/",
 			"Website": "https://m45sci.xyz/",
-			"Discord": "https://discord.gg/nnKyVzAYBw",
-			"JsonGzip": false,
-			"Subscribed": true
+			"Discord": "https://discord.gg/nnKyVzAYBw"
 		},
 		{
 			"Name": "Comfy",
 			"Bans": "https://getcomfy.eu/api/banlist",
 			"Website": "https://getcomfy.eu/",
-			"Discord": "https://getcomfy.eu/discord",
-			"JsonGzip": false,
-			"Subscribed": true
+			"Discord": "https://getcomfy.eu/discord"
 		},
 		{
 			"Name": "RedMew",
 			"Bans": "https://redmew.com/bans",
 			"Website": "https://redmew.com/",
 			"Discord": "https://redmew.com/discord",
-			"JsonGzip": false,
-			"Subscribed": true,
 			"UseRedScrape": true
 		}
 	]
