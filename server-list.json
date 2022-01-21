@@ -3,7 +3,7 @@
 	"ServerList": [
 		{
 			"Name": "M45-Science",
-			"Bans": "http://m45sci.xyz:8008/server-banlist.json",
+			"Bans": "https://m45sci.xyz:8443/server-banlist.json",
 			"Logs": "https://m45sci.xyz/logs/",
 			"Website": "https://m45sci.xyz/",
 			"Discord": "https://discord.gg/nnKyVzAYBw",
