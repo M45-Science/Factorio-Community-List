@@ -10,6 +10,10 @@
 			"JsonGzip": true
 		},
 		{
+			"Name": "M45-Science-Legacy",
+			"Bans": "https://m45sci.xyz/old-server-banlist.json",
+		},
+		{
 			"Name": "Comfy",
 			"Bans": "https://getcomfy.eu/api/banlist",
 			"Website": "https://getcomfy.eu/",
