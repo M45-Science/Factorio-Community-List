@@ -15,7 +15,7 @@
 		},
 		{
 			"Name": "Comfy",
-			"Bans": "https://getcomfy.eu/api/banlist",
+			"Bans": "https://getcomfy.eu/api/v1/ban/getall",
 			"Website": "https://getcomfy.eu/",
 			"Discord": "https://getcomfy.eu/discord"
 		},
