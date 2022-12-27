@@ -6,7 +6,7 @@
 			"Bans": "https://m45sci.xyz:8443/server-banlist.json",
 			"Logs": "https://m45sci.xyz/logs/",
 			"Website": "https://m45sci.xyz/",
-			"Discord": "https://discord.gg/rQANzBheVh",
+			"Discord": "https://m45sci.xyz/",
 			"JsonGzip": true
 		},
 		{
@@ -15,9 +15,10 @@
 		},
 		{
 			"Name": "Comfy",
-			"Bans": "https://getcomfy.eu/api/v1/ban/getall",
+			"Bans": "https://getcomfy.eu/bans",
 			"Website": "https://getcomfy.eu/",
-			"Discord": "https://getcomfy.eu/discord"
+			"Discord": "https://getcomfy.eu/discord",
+			"UseComfyScrape": true
 		},
 		{
 			"Name": "RedMew",
