@@ -15,9 +15,10 @@
 		},
 		{
 			"Name": "Comfy",
-			"Bans": "https://getcomfy.eu/api/v1/ban/get/all",
+			"Bans": "https://getcomfy.eu/bans",
 			"Website": "https://getcomfy.eu/",
-			"Discord": "https://getcomfy.eu/discord"
+			"Discord": "https://getcomfy.eu/discord",
+			"UseComfyScrape": true
 		},
 		{
 			"Name": "RedMew",
